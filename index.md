@@ -4,8 +4,9 @@ layout: default
 
 [Experience](./experience.html)
 
-| [Experience](./experience.html)| summary |
-|---|---|
+|Summary
+| [Experience](./experience.html) |
+| ------------------------------- |  |
 ## Summary
 3 years experience as front-end developer for Nuclias team with D-Link.
 Developing web applications with D-Link switch to present real time device status.
