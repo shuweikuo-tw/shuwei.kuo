@@ -1,4 +1,5 @@
 title: Hey!This is Shu Wei
 logo: /assets/img/logo.png
 description: A web based resume
+show_downloads: true
 theme: jekyll-theme-minimal
