@@ -19,7 +19,7 @@ layout: default
 #### Frontend Web Developer  
 > one solution tech  
 > Mar 2018 - Sep 2018 (7 months)  
->> Build website and maintain them with html , css and Javascript , api , ajax json , financial transfer function , UI/UX design .
+>> Build website and maintain them with html , css and Javascript , api , ajax json , financial transfer function , UI/UX design  
 >
 #### Internship  
 > First General Technology Inc.  
