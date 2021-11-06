@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Experience  
 ### Frontend Engineer  
 #### D-Link  
