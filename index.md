@@ -10,17 +10,17 @@ layout: default
 >> Using following languages: AngularJS, coffeescript, jade, javascript, html.  
 >> Using grunt and gitlab, docker.  
 
-> Employee Welfare Committee
-> D-Link
-> Jan 2019 - Dec 2019 (1 year)
+> Employee Welfare Committee  
+> D-Link  
+> Jan 2019 - Dec 2019 (1 year)  
 >> Organised and host company family day event, festival events, bridge between employees and employer.
 >
-> Frontend Web Developer
-> one solution tech
-> Mar 2018 - Sep 2018 (7 months)
+> Frontend Web Developer  
+> one solution tech  
+> Mar 2018 - Sep 2018 (7 months)  
 >> Build website and maintain them with html , css and Javascript , api , ajax json , financial transfer function , UI/UX design .
 >
-> Internship
-> First General Technology Inc.
-> Jul 2014 - Aug 2014 (2 months)
+> Internship  
+> First General Technology Inc.  
+> Jul 2014 - Aug 2014 (2 months)  
 >> Helping and learning MYSQL with engineers
