@@ -5661,7 +5661,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
                         this.onPortMessageListeners = [],
                         this.messageRuntimeListeners = [],
                         this.tabActionListeners = [],
-                        void 0 !== window.safari && window.safari.self.addEventListener("message", this.processResponse.bind(this))
+                        void 0 !== window.safari && window.addEventListener("message", this.processResponse.bind(this))
                     }
                     getFile(e)
                     {
