@@ -1,6 +1,5 @@
-Heya, I am Shu Wei, a frontend developer(for now),  
-I self-taught myself the web development field and luckily I got an opportunity contributes to my first web development job  
-And now it's 3rd year of my second front end engineer in D-Link.  
-What has not changed for these years is my passion on the curiosity of learning new things,  
-and programming nevert got old(it changes, grows so fast)
-
+3 years experience as front-end developer for Nuclias team with D-Link.
+Developing web applications with D-Link switch to present real time device status.
+Finished Google foobar challenge 4th level with Python.
+Self-taught and highly self-motivated on programming languages, love learning new things and try new things.
+Work for my freelance clients for SEO service .
