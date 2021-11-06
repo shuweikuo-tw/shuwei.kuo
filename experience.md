@@ -28,5 +28,3 @@ layout: default
 > First General Technology Inc.  
 > Jul 2014 - Aug 2014 (2 months)  
 >> Helping and learning MYSQL with engineers
-
-[back](./)
