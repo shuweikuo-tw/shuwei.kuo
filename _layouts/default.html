@@ -23,7 +23,7 @@
         {% endif %}
 
         <p>{{ site.additional_info | default: site.github.project_tagline }}</p>
-        {{ site.description | default: site.github.project_tagline }}
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <a href="{{site.ig_url}}"><img src="{{ site.instagram | relative_url}}"></a>
         <a href="{{site.linkedin_url}}"><img src="{{ site.linkedin | relative_url}}"></a>  
