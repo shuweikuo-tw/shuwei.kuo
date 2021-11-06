@@ -1,6 +1,6 @@
 title: Hey!This is Shu Wei
-description: Key skills <br> <p>Javascript, #AngularJS, #Python, #CSS, #SCSS, #RESTful API </p>
+description: Key skills <br>Javascript,#AngularJS,#Python,#CSS,#SCSS,#RESTful API
 logo: /assets/img/logo.png
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 markdown: GFM
