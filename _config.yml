@@ -1,6 +1,6 @@
 title: Hey!This is Shu Wei
+description: Key skills Javascript, AngularJS, Python, CSS, SCSS, RESTful API
 logo: /assets/img/logo.png
-description: A web based resume
 show_downloads: true
 theme: jekyll-theme-minimal
 markdown: GFM
