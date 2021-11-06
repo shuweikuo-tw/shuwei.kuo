@@ -2,8 +2,14 @@
 layout: default
 ---
 
-| [Summary](./summary.html) | def |
-| --- | --- |
+<table>
+<thead>
+<tr>
+<th><a src="./summary.html">Summary</a></th>
+<th>def</th>
+</tr>
+</thead>
+</table>
 
 ## Experience  
 #### Frontend Engineer  
