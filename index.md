@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <h1> Summary </h1> | <h1>[Experience](./experience.html)</h1> |
+| <h2> Summary </h2> | <h2>[Experience](./experience.html)</h2> |
 | ------------------ | ---------------------------------------- |
 
 ## Brief of me

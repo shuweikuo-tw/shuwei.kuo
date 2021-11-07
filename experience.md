@@ -2,7 +2,7 @@
 layout: default
 ---
 
-| <h1>Experience</h1> | <h1>[Summary](./)</h1> |
+| <h2>Experience</h2> | <h2>[Summary](./)</h2> |
 | ------------------- | ---------------------- |
 
 #### Frontend Engineer  
