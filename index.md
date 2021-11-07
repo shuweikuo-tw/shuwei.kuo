@@ -5,7 +5,7 @@ layout: default
 | <h2> Summary </h2> | <h2>[Experience](./experience.html)</h2> |
 | ------------------ | ---------------------------------------- |
 
-<hr />
+<br />
 
 ## A little about me
 3 years experience as front-end developer for Nuclias team with D-Link.
@@ -16,7 +16,7 @@ Self-taught and highly self-motivated on programming languages, love learning ne
   
 Work for my freelance clients for SEO service.  
   
-<hr />
+<br />
 
 ## Education
 National Kaohsiung University of Science and Technology

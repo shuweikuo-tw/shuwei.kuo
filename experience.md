@@ -5,7 +5,7 @@ layout: default
 | <h2>Experience</h2> | <h2>[Summary](./)</h2> |
 | ------------------- | ---------------------- |
 
-<hr>
+<br>
 
 ## Frontend Engineer  
 > D-Link  
@@ -16,7 +16,7 @@ layout: default
 >> Using grunt and gitlab, docker.  
   
 
-<hr>
+<br>
 
 ## Employee Welfare Committee  
 > D-Link  
@@ -24,14 +24,14 @@ layout: default
 >> Organised and host company family day event, festival events, bridge between employees and employer.
   
 
-<hr>
+<br>
 
 ## Frontend Web Developer  
 > one solution tech  
 > Mar 2018 - Sep 2018 (7 months)  
 >> Build website and maintain them with html , css and Javascript , api , ajax json , financial transfer function , UI/UX design  
   
-<hr>
+<br>
 
 ## Internship  
 > First General Technology Inc.  
