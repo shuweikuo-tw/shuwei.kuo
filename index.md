@@ -5,6 +5,8 @@ layout: default
 | <h2> Summary </h2> | <h2>[Experience](./experience.html)</h2> |
 | ------------------ | ---------------------------------------- |
 
+<hr />
+
 ## A little about me
 3 years experience as front-end developer for Nuclias team with D-Link.
 Developing web applications with D-Link switch to present real time device status.
