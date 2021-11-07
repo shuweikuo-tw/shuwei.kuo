@@ -5,6 +5,8 @@ layout: default
 | <h2>Experience</h2> | <h2>[Summary](./)</h2> |
 | ------------------- | ---------------------- |
 
+<hr>
+
 ## Frontend Engineer  
 > D-Link  
 > Sep 2018 - Sep 2021 (3 years 1 month)  
