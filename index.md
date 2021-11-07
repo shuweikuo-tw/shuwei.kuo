@@ -2,8 +2,8 @@
 layout: default
 ---
 
-| <h1> Summary </h1> | [Experience](./experience.html) |
-| ------------------ | ------------------------------- |
+| <h1> Summary </h1> | <h1>[Experience](./experience.html)</h1> |
+| ------------------ | ---------------------------------------- |
 
 ## Brief of me
 3 years experience as front-end developer for Nuclias team with D-Link.
