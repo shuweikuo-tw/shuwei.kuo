@@ -5,6 +5,18 @@ layout: default
 | <h2>Experience</h2> | <h2>[Summary](./)</h2> |
 | ------------------- | ---------------------- |
 
+
+<br>
+
+## Fullstack Engineer  
+> WebGLsoft
+> Oct 2021 - present (10 months)
+> 
+>> Developing E-commerce websites for our clients with Javascript(Typescript, Angular, RXJS), CSS(SCSS, SASS), PHP.  
+>> Client website: [Watsons's](https://www.watsons.com.hk/)
+  
+
+
 <br>
 
 ## Frontend Engineer  
