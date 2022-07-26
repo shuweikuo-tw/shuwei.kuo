@@ -1,4 +1,5 @@
 # Summary
+1 year experience as fullstack for watson's E-commerce with webGLsoft. 
 3 years experience as front-end developer for Nuclias team with D-Link.  
 1 years experience as front-end developer for E-commerce websites in webglsoft.  
 Developing web applications with D-Link switch to present real time device status.
