@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.documentElement.setAttribute("nighteye", "active");
   }
   else{
-    document.documentElement.setAttribute("nighteye", "disabled");
+    document.documentElement.setAttribute("nighteye", "active");
   }
 });
