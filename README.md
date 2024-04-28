@@ -17,8 +17,8 @@
 
 # Summary 
 6 years in web developement journey, and still going on.  
-<sub>3 years experience as a front-end developer, built a cloud-based network management platform Nuclias with D-Link.[^1]</sub>  
-<sup> 3 years experience as a full-stack developer, built company commission system for agents, developed auto synchronize feature from `AWS RDS` to `Hubspot` custom object.[^2]</sup>
+3 years experience as a front-end developer, built a cloud-based network management platform Nuclias with D-Link.[^1]
+3 years experience as a full-stack developer, built company commission system for agents, developed auto synchronize feature from `AWS RDS` to `Hubspot` custom object.[^2]
   
   Partook in developing zero-touch `real-time communication` with the network switch.   
   Developed the company portal for agent commission. API implementation with `FastAPI` & `SQLAlchemy` on `AWS` with data transition from the `Snowflake` data warehouse.
