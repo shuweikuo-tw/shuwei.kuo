@@ -1,3 +1,18 @@
+<!-- 
+my-portfolio/
+├── _config.yml
+├── _includes/
+│   └── head.html
+├── _layouts/
+│   └── default.html
+├── _posts/
+├── index.html
+├── assets/
+│   └── css/
+│       └── style.css
+└── ... 
+-->
+
 <!--```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': true, 'showCommitLabel':false,'mainBranchOrder': 0}} }%%
     gitGraph

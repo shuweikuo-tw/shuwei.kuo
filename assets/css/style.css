@@ -1,0 +1,37 @@
+css
+/* Basic Typography */
+body {
+  font-family: monospace; /* Or a similar brutalist font */
+  line-height: 1.6;
+  color: #eee; /* Light text on dark background */
+  background-color: #222; 
+}
+
+/* Layout & Grid */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: 700; /* Bold headings */
+  margin-bottom: 1rem;
+}
+
+/* Links */
+a {
+  color: #007bff; /* A contrasting color for links */
+  text-decoration: underline;
+}
+
+/* Project Cards (Example) */
+.project-card {
+  background-color: #333;
+  border: 2px solid #555; /* Thick borders */
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* ... and so on */
