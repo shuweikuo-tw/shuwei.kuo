@@ -1,20 +1,5 @@
 @import "tailwindcss";
 
-
-/* Custom styles based on the original Jekyll theme */
-@font-face {
-  font-family: 'Noto Sans';
-  font-weight: 400;
-  font-style: normal;
-  src: url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot");
-  src: url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix") format("embedded-opentype"), 
-       local("Noto Sans"), local("Noto-Sans-regular"), 
-       url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff2") format("woff2"), 
-       url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.woff") format("woff"), 
-       url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.ttf") format("truetype"), 
-       url("~/assets/fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans") format("svg");
-}
-
 body {
   background-color: #fff;
   padding: 50px;
