@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <table class="nav-table">
+  <div class="container flex flex-col">
+    <!-- <table class="nav-table">
       <tbody>
         <tr>
           <td>
@@ -13,42 +13,52 @@
           </td>
         </tr>
       </tbody>
-    </table>
+    </table> -->
 
-    <br />
-
-    <section class="about">
-      <h2>A little about me</h2>
+    <section class="about flex flex-col">
+      <h2 class="text-lg">A little about me</h2>
       <p>
-        3 years experience as a front-end developer for the Nuclias team with D-Link.
-        Developing web applications with D-Link switch to present real-time device status.
-        Finished Google Foobar challenge 4th level with Python.
-      </p>
-      
-      <p>
-        Self-taught and highly self-motivated on programming languages, love learning new things and try new things.
-      </p>
-      
-      <p>
-        Work for my freelance clients for SEO services.
+        Results-driven Software Developer with over 6 years of experience in creating scalable web applications using React, Vue.js, and FastAPI. Skilled in database optimization, cloud integration (AWS, GCP), and RESTful API development. Adept at improving system efficiency and delivering user-focused solutions.
       </p>
     </section>
 
-    <br />
+    <section class="experience flex flex-col">
+      <h2 class="text-lg">Experience</h2>
+      <div>
+        <p class="text-sm flex flex-col">
+          <span>Full Stack Developer</span>
+          <canvas id="trnsgbl" class="w-sm h-sm"></canvas>
+          <span>TransGlobalUS Holding · Oct 2021- Present</span>
+        </p>
+      </div>
+      <div>
+        <p class="text-sm flex flex-col">
+          <span>Frontend Developer</span>
+          <span>D-Link Corporation · Sep 2018 - July 2021</span>
+        </p>
+      </div>
+    </section>
 
-    <section class="education">
-      <h2>Education</h2>
+    <section class="education flex flex-col">
+      <h2 class="text-lg">Education</h2>
       <p>
-        <strong>National Kaohsiung University of Science and Technology</strong><br>
-        BS, Microelectronic Engineering 2012 - 2016<br>
-        Studied with semiconductor and SoC fields.
+        Bachelor of Science in Semiconductor Engineering 
+        Kaohsiung University of Science And Technology
+        June 2017
       </p>
     </section>
   </div>
 </template>
 
 <script setup>
-useHead({
-  title: 'Summary - This is ShuWei'
-})
+  // const canvas = document.getElementById('trnsgbl');
+  // const ctx = canvas.getContext('2d');
+
+  // const img = new Image();
+  // img.onload = () => {
+  //   ctx.drawImage(img, 0, 0)
+  // }
+  useHead({
+    title: 'Summary - This is ShuWei'
+  })
 </script>

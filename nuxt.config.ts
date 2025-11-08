@@ -1,3 +1,5 @@
+import tailwindcss from "@tailwindcss/vite";
+
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxtjs/tailwindcss'],
@@ -21,6 +23,11 @@ export default defineNuxtConfig({
       routes: ['/experience']
     }
   },
+  vite: {
+    plugins: [
+      tailwindcss()]
+  },
   ssr: false,
-  target: 'static'
+  target: 'static',
+  compatibilityDate: '2025-10-17' 
 })
