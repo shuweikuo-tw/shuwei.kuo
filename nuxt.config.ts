@@ -1,8 +1,9 @@
 import tailwindcss from "@tailwindcss/vite";
+import { defineNuxtConfig } from "nuxt/config";
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss'],
+  // modules: ['@nuxtjs/tailwindcss'],
   css: ['~/assets/css/main.css'],
   app: {
     head: {
@@ -29,5 +30,5 @@ export default defineNuxtConfig({
   },
   ssr: false,
   target: 'static',
-  compatibilityDate: '2025-10-17' 
+  compatibilityDate: '2025-10-17'
 })

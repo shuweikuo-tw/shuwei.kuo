@@ -1,19 +1,13 @@
 {
+    "extends": "./.nuxt/tsconfig.json",
     "compilerOptions": {
         "module": "ESNext",
         "moduleResolution": "Bundler",
         "target": "ES2022",
-        "jsx": "react-jsx",
+        "jsx": "preserve",
         "strictNullChecks": true,
         "strictFunctionTypes": true,
-        "sourceMap": true,
-        "plugins": [
-            {
-                "name": "@manuth/typescript-eslint-plugin",
-                "ignoreJavaScript": true,
-                "configFile": "custom.eslintrc.js"
-            }
-        ]
+        "sourceMap": true
     },
     "exclude": [
         "node_modules",
